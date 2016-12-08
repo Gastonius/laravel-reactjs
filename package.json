@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "classnames": "^2.2.3",
+    "laravel-elixir": "^2.2.1",
+    "laravel-elixir-livereload": "0.0.3",
+    "lodash": "^4.14.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-refetch": "^0.8.0",
+    "react-router": "^2.4.0"
+  },
+  "dependencies": {
+    "konva": "^1.2.2",
+    "material-ui": "^0.16.4",
+    "react": "^15.4.1",
+    "react-dropzone": "^3.7.3",
+    "react-google-maps": "^6.0.1",
+    "react-konva": "^1.1.0",
+    "react-tap-event-plugin": "^2.0.1"
+  }
+}
